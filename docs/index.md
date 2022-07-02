@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 就活メモアプリ　プライバシーポリシー
 
 You can use the [editor on GitHub](https://github.com/Y-chrysopelea/syukatumemoapp/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
